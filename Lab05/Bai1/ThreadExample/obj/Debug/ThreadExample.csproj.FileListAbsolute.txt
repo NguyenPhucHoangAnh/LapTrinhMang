@@ -1,0 +1,7 @@
+C:\Users\Hoàng Anh\Documents\Lập trình mạng\Lab05\Bai1\ThreadExample\bin\Debug\ThreadExample.exe.config
+C:\Users\Hoàng Anh\Documents\Lập trình mạng\Lab05\Bai1\ThreadExample\bin\Debug\ThreadExample.exe
+C:\Users\Hoàng Anh\Documents\Lập trình mạng\Lab05\Bai1\ThreadExample\bin\Debug\ThreadExample.pdb
+C:\Users\Hoàng Anh\Documents\Lập trình mạng\Lab05\Bai1\ThreadExample\obj\Debug\ThreadExample.csproj.AssemblyReference.cache
+C:\Users\Hoàng Anh\Documents\Lập trình mạng\Lab05\Bai1\ThreadExample\obj\Debug\ThreadExample.csproj.CoreCompileInputs.cache
+C:\Users\Hoàng Anh\Documents\Lập trình mạng\Lab05\Bai1\ThreadExample\obj\Debug\ThreadExample.exe
+C:\Users\Hoàng Anh\Documents\Lập trình mạng\Lab05\Bai1\ThreadExample\obj\Debug\ThreadExample.pdb

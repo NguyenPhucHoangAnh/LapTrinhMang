@@ -1,0 +1,7 @@
+C:\Users\Hoàng Anh\Documents\Lập trình mạng\Lab05\Bai2\Bai2\bin\Debug\Bai2.exe.config
+C:\Users\Hoàng Anh\Documents\Lập trình mạng\Lab05\Bai2\Bai2\bin\Debug\Bai2.exe
+C:\Users\Hoàng Anh\Documents\Lập trình mạng\Lab05\Bai2\Bai2\bin\Debug\Bai2.pdb
+C:\Users\Hoàng Anh\Documents\Lập trình mạng\Lab05\Bai2\Bai2\obj\Debug\Bai2.csproj.AssemblyReference.cache
+C:\Users\Hoàng Anh\Documents\Lập trình mạng\Lab05\Bai2\Bai2\obj\Debug\Bai2.csproj.CoreCompileInputs.cache
+C:\Users\Hoàng Anh\Documents\Lập trình mạng\Lab05\Bai2\Bai2\obj\Debug\Bai2.exe
+C:\Users\Hoàng Anh\Documents\Lập trình mạng\Lab05\Bai2\Bai2\obj\Debug\Bai2.pdb
