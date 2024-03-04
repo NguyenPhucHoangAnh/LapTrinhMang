@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "KrBrclI7BR2tVSn4SN/zCPwJQy2I512T0EqvNOWCViOvKEQAsQTqn3/ZGZ9KcylZVoROcJL7JgQdZ27okoE1Fw==",
+  "success": true,
+  "projectFilePath": "C:\\baitap\\LTM\\Lab03\\Lab03\\Cau03\\Client\\Client.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\LEGION\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\LEGION\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\LEGION\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\LEGION\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}
