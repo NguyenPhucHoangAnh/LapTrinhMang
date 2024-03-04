@@ -1,0 +1,7 @@
+D:\Lập Trình Mạng\test\Lab04_bai2\Employee\bin\Debug\Employee.exe.config
+D:\Lập Trình Mạng\test\Lab04_bai2\Employee\bin\Debug\Employee.exe
+D:\Lập Trình Mạng\test\Lab04_bai2\Employee\bin\Debug\Employee.pdb
+D:\Lập Trình Mạng\test\Lab04_bai2\Employee\obj\Debug\Employee.csproj.AssemblyReference.cache
+D:\Lập Trình Mạng\test\Lab04_bai2\Employee\obj\Debug\Employee.csproj.CoreCompileInputs.cache
+D:\Lập Trình Mạng\test\Lab04_bai2\Employee\obj\Debug\Employee.exe
+D:\Lập Trình Mạng\test\Lab04_bai2\Employee\obj\Debug\Employee.pdb

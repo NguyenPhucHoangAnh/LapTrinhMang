@@ -1,0 +1,7 @@
+C:\Users\Hoàng Anh\Documents\Lập trình mạng\Lab04\Bai1\Bai1\bin\Debug\Bai1.exe.config
+C:\Users\Hoàng Anh\Documents\Lập trình mạng\Lab04\Bai1\Bai1\bin\Debug\Bai1.exe
+C:\Users\Hoàng Anh\Documents\Lập trình mạng\Lab04\Bai1\Bai1\bin\Debug\Bai1.pdb
+C:\Users\Hoàng Anh\Documents\Lập trình mạng\Lab04\Bai1\Bai1\obj\Debug\TCPClient.csproj.AssemblyReference.cache
+C:\Users\Hoàng Anh\Documents\Lập trình mạng\Lab04\Bai1\Bai1\obj\Debug\TCPClient.csproj.CoreCompileInputs.cache
+C:\Users\Hoàng Anh\Documents\Lập trình mạng\Lab04\Bai1\Bai1\obj\Debug\Bai1.exe
+C:\Users\Hoàng Anh\Documents\Lập trình mạng\Lab04\Bai1\Bai1\obj\Debug\Bai1.pdb

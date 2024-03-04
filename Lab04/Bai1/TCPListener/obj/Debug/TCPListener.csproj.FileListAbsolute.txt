@@ -1,0 +1,7 @@
+C:\Users\Hoàng Anh\Documents\Lập trình mạng\Lab04\Bai1\TCPListener\bin\Debug\TCPListener.exe.config
+C:\Users\Hoàng Anh\Documents\Lập trình mạng\Lab04\Bai1\TCPListener\bin\Debug\TCPListener.exe
+C:\Users\Hoàng Anh\Documents\Lập trình mạng\Lab04\Bai1\TCPListener\bin\Debug\TCPListener.pdb
+C:\Users\Hoàng Anh\Documents\Lập trình mạng\Lab04\Bai1\TCPListener\obj\Debug\TCPListener.csproj.AssemblyReference.cache
+C:\Users\Hoàng Anh\Documents\Lập trình mạng\Lab04\Bai1\TCPListener\obj\Debug\TCPListener.csproj.CoreCompileInputs.cache
+C:\Users\Hoàng Anh\Documents\Lập trình mạng\Lab04\Bai1\TCPListener\obj\Debug\TCPListener.exe
+C:\Users\Hoàng Anh\Documents\Lập trình mạng\Lab04\Bai1\TCPListener\obj\Debug\TCPListener.pdb

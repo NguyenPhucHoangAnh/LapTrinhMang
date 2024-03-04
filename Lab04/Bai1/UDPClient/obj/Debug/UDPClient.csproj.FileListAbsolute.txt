@@ -1,0 +1,7 @@
+C:\Users\Hoàng Anh\Documents\Lập trình mạng\Lab04\Bai1\UDPClient\bin\Debug\UDPClient.exe.config
+C:\Users\Hoàng Anh\Documents\Lập trình mạng\Lab04\Bai1\UDPClient\bin\Debug\UDPClient.exe
+C:\Users\Hoàng Anh\Documents\Lập trình mạng\Lab04\Bai1\UDPClient\bin\Debug\UDPClient.pdb
+C:\Users\Hoàng Anh\Documents\Lập trình mạng\Lab04\Bai1\UDPClient\obj\Debug\UDPClient.csproj.AssemblyReference.cache
+C:\Users\Hoàng Anh\Documents\Lập trình mạng\Lab04\Bai1\UDPClient\obj\Debug\UDPClient.csproj.CoreCompileInputs.cache
+C:\Users\Hoàng Anh\Documents\Lập trình mạng\Lab04\Bai1\UDPClient\obj\Debug\UDPClient.exe
+C:\Users\Hoàng Anh\Documents\Lập trình mạng\Lab04\Bai1\UDPClient\obj\Debug\UDPClient.pdb

@@ -1,0 +1,11 @@
+D:\Lập Trình Mạng\test\Lab04_bai2\client\bin\Debug\client.exe.config
+D:\Lập Trình Mạng\test\Lab04_bai2\client\bin\Debug\client.exe
+D:\Lập Trình Mạng\test\Lab04_bai2\client\bin\Debug\client.pdb
+D:\Lập Trình Mạng\test\Lab04_bai2\client\bin\Debug\Employee.exe
+D:\Lập Trình Mạng\test\Lab04_bai2\client\bin\Debug\Employee.pdb
+D:\Lập Trình Mạng\test\Lab04_bai2\client\bin\Debug\Employee.exe.config
+D:\Lập Trình Mạng\test\Lab04_bai2\client\obj\Debug\client.csproj.AssemblyReference.cache
+D:\Lập Trình Mạng\test\Lab04_bai2\client\obj\Debug\client.csproj.CoreCompileInputs.cache
+D:\Lập Trình Mạng\test\Lab04_bai2\client\obj\Debug\client.csproj.CopyComplete
+D:\Lập Trình Mạng\test\Lab04_bai2\client\obj\Debug\client.exe
+D:\Lập Trình Mạng\test\Lab04_bai2\client\obj\Debug\client.pdb

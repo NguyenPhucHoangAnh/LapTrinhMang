@@ -1,0 +1,7 @@
+C:\Users\Hoàng Anh\Documents\Lập trình mạng\Lab04\Bai1\UDPListenner\bin\Debug\UDPListenner.exe.config
+C:\Users\Hoàng Anh\Documents\Lập trình mạng\Lab04\Bai1\UDPListenner\bin\Debug\UDPListenner.exe
+C:\Users\Hoàng Anh\Documents\Lập trình mạng\Lab04\Bai1\UDPListenner\bin\Debug\UDPListenner.pdb
+C:\Users\Hoàng Anh\Documents\Lập trình mạng\Lab04\Bai1\UDPListenner\obj\Debug\UDPListenner.csproj.AssemblyReference.cache
+C:\Users\Hoàng Anh\Documents\Lập trình mạng\Lab04\Bai1\UDPListenner\obj\Debug\UDPListenner.csproj.CoreCompileInputs.cache
+C:\Users\Hoàng Anh\Documents\Lập trình mạng\Lab04\Bai1\UDPListenner\obj\Debug\UDPListenner.exe
+C:\Users\Hoàng Anh\Documents\Lập trình mạng\Lab04\Bai1\UDPListenner\obj\Debug\UDPListenner.pdb
