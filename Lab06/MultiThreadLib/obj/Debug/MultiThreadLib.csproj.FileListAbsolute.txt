@@ -1,0 +1,6 @@
+C:\Users\Hoàng Anh\Documents\Lập trình mạng\Lab6\MultiThreadLib\bin\Debug\MultiThreadLib.dll
+C:\Users\Hoàng Anh\Documents\Lập trình mạng\Lab6\MultiThreadLib\bin\Debug\MultiThreadLib.pdb
+C:\Users\Hoàng Anh\Documents\Lập trình mạng\Lab6\MultiThreadLib\obj\Debug\MultiThreadLib.csproj.AssemblyReference.cache
+C:\Users\Hoàng Anh\Documents\Lập trình mạng\Lab6\MultiThreadLib\obj\Debug\MultiThreadLib.csproj.CoreCompileInputs.cache
+C:\Users\Hoàng Anh\Documents\Lập trình mạng\Lab6\MultiThreadLib\obj\Debug\MultiThreadLib.dll
+C:\Users\Hoàng Anh\Documents\Lập trình mạng\Lab6\MultiThreadLib\obj\Debug\MultiThreadLib.pdb
